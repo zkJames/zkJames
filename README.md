@@ -2,14 +2,14 @@
 
 🎓 I am a graduate student at UCAS, SICT, and I'm passionate about software development and data science.
 
+## 🚀 Internship
+- 👨‍💻 Backend SDE & Data SDE, **Microsoft STCA**, Nov 2022 - Present
+- 👨‍💻 Backend SDE & Data SDE, **BiliBili data platform**, Jun 2021 - Sep 2021
+
 ## 💻 Know a little about
 - 🔥 Java
 - 🐍 Python
 - 💻 C#
-
-## 🚀 Work Experience
-- 👨‍💻 Backend SDE & Data SDE, **Microsoft STCA**, Nov 2022 - Present
-- 👨‍💻 Backend SDE & Data SDE, **BiliBili data platform**, Jun 2021 - Sep 2021
 
 ## 📚 Projects
 - 🎟️ https://github.com/zkJames/TicketingSystem
