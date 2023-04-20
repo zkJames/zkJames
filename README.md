@@ -1,4 +1,4 @@
-# Hi there, I'm zkJames! 👋
+# Hi there, I'm James Zhu! 👋
 
 🎓 I am a graduate student at UCAS, SICT, and I'm passionate about software development and data science.
 
